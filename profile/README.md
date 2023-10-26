@@ -1,9 +1,17 @@
-### 내일배움캠프 Unity 1기
-## 최종 프로젝트 1조
 # Tera
 
+내일배움캠프 Unity 1기 최종 프로젝트 1조
+
 ## 🧑‍💻
+
 `팀장` 이소이
+
 `부팀장` 임현진
+
 `팀원` 최석준
+
 `팀원` 진우성
+
+## notion
+
+https://teamsparta.notion.site/TERA-4c2d279985d44ad8abea46b28c84a555
