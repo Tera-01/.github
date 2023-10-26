@@ -12,7 +12,7 @@
 
 `팀원` 진우성 [@xjwsx](https://github.com/xjwsx)
 
-## Link
+## 🔗 Link
 
 <a href="https://teamsparta.notion.site/TERA-4c2d279985d44ad8abea46b28c84a555"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a>
 
