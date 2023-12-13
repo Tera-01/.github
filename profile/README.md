@@ -8,8 +8,6 @@
 
 `부팀장` 임현진 [@pporrorro](https://github.com/pporrorro)
 
-`팀원` 최석준 [@seokjoon-8unity](https://github.com/seokjoon-8unity)
-
 `팀원` 진우성 [@xjwsx](https://github.com/xjwsx)
 
 ## 🔗 Link
@@ -18,4 +16,4 @@
 
 ---
 
-Special thanks to 안소정
+Special thanks to 안소정 최석준
